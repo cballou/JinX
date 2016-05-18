@@ -5,6 +5,8 @@ Tags: javascript, js, add javascript, include javascript, post javascript, page 
 Requires at least: 2.6.3
 Tested up to: 3.0
 Stable tag: 1.1.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 JinX gives you the ability to separate any javascript you may have from your blog posts and pages.  It provides a separate textarea 
 for adding javascript code which will not be stripped or sanitized.
