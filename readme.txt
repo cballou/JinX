@@ -8,23 +8,17 @@ Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-JinX gives you the ability to separate any javascript you may have from your blog posts and pages.  It provides a separate textarea 
-for adding javascript code which will not be stripped or sanitized.
+JinX gives you the ability to separate any javascript you may have from your blog posts and pages.  It provides a separate textarea for adding javascript code which will not be stripped or sanitized.
 
 == Description ==
 
-JinX gives you the ability to separate any javascript you may have from your blog posts and pages.  It provides a separate textarea 
-for adding javascript code which will not be stripped or sanitized. To combat the loosened security, we have implemented a role-based
-access control list (ACL) in the options section. This ACL gives you the capability of deciding exactly which user roles should be able
-to utilize the plugin.  JinX also applies the markItUp! jQuery plugin to the JinX textarea for easier adding, editing, and viewing. The 
-plugin gives you the ability to properly use tabs and allows the textarea to auto-expand.
+JinX gives you the ability to separate any javascript you may have from your blog posts and pages.  It provides a separate textarea for adding javascript code which will not be stripped or sanitized. To combat the loosened security, we have implemented a role-based access control list (ACL) in the options section. This ACL gives you the capability of deciding exactly which user roles should be able to utilize the plugin.  JinX also applies the markItUp! jQuery plugin to the JinX textarea for easier adding, editing, and viewing. The plugin gives you the ability to properly use tabs and allows the textarea to auto-expand.
 
-Credit goes out to Jay Salvat (http://www.jaysalvat.com) for his markItUp! jQuery plugin that was used in this plugin. For more information on
-this markup editor, please visit http://markitup.jaysalvat.com/home/.
+Credit goes out to Jay Salvat (http://www.jaysalvat.com) for his markItUp! jQuery plugin that was used in this plugin. For more information on this markup editor, please visit http://markitup.jaysalvat.com/home/.
 
 *Related Links:*
 
-* <a href="http://www.jqueryin.com/projects/jinx-javascript-includer-wordpress-plugin/" title="JinX WordPress Plugin">Official Plugin Homepage</a>
+* <a href="https://www.coreyballou.com/projects/jinx-the-javascript-includer-wordpress-plugin/" title="JinX WordPress Plugin">Official Plugin Homepage</a>
 * <a href="http://wordpress.org/tags/jinx">JinX Support Forum</a>
 
 *Change Log*
