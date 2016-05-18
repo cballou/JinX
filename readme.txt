@@ -1,6 +1,6 @@
 === JinX - The Javascript Includer ===
 Contributors: jqueryin
-Donate link: http://www.jqueryin.com/
+Donate link: https://www.coreyballou.com/
 Tags: javascript, js, add javascript, include javascript, post javascript, page javascript
 Requires at least: 2.6.3
 Tested up to: 3.0
